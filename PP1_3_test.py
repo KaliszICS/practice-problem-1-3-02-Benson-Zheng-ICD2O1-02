@@ -2,6 +2,7 @@ import os.path
 import sys
 from PP1_3 import *
 
+
 def test_q1(capsys):
 
   try:
