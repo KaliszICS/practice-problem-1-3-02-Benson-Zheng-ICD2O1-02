@@ -10,14 +10,14 @@ def q1():
 def q2():
   #Write Assignment code here
     word1 = "Hello "
-    word2 = "World"
+    word2 = "World\n"
     print (word1, end="")
-    print (word2) 
+    print (word2)
 def q3():
   #Write Assignment code here
-  print ("\"Man\"")
-  print ("\"Board\"")
-  print ("\"Man Overboard\"")
+    print ("\"Man\"")
+    print ("\"Board\"")
+    print ("\"Man Overboard\"")
 
 
 #Do not alter anything after this line
