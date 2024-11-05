@@ -6,11 +6,11 @@ def q1():
   #Remember your code must be indented once
     print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n")
     print("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
-    print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n")
+    print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
 def q2():
   #Write Assignment code here
     word1 = "Hello "
-    word2 = "World\n"
+    word2 = "World"
     print (word1, end="")
     print (word2)
 def q3():
